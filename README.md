@@ -16,3 +16,8 @@ Hello, My name's Xavier F. Gouchet, I'm a french multipotentialite, Open Source 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=xgouchet&show_icons=true&count_private=true&theme=)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgouchet&hide=javascript,css&layout=compact)
+
+![Years Badge](https://badges.pufler.dev/years/xgouchet)
+![Repos Badge](https://badges.pufler.dev/repos/xgouchet)
+![Gists Badge](https://badges.pufler.dev/gists/xgouchet)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/xgouchet)
