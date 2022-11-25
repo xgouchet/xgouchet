@@ -7,9 +7,10 @@ Hello, My name's Xavier F. Gouchet, I'm a french multipotentialite, Open Source 
 
 
 - 🔭 I’m currently working on too many projects at the same time. Sci-fi books, music, Kotlin projects…
-- 🌱 I’m currently learning Android Jetpack Compose
+- 🌱 I’m currently learning Roku development, and Android Jetpack Compose
 - 👯 I’m looking to collaborate on music, writing, code, …
-- 💬 Ask me about anything, among others **Android**, **testing**, **Kotlin**, **creative writing**, **music**, … 
+- 💬 Ask me about anything, among others **Android**, **testing**, **Kotlin**, **Roku**, **creative writing**, **music**, … 
+- 🏳️‍🌈 Be kind to everyone
 
 ## Reach out to me
 
